@@ -1,12 +1,15 @@
 ## General instructions
 
-The code contains already 2 users. It is possible to access their profiles by typing: `http://localhost:4200/user/flavio` and `http://localhost:4200/user/lpereira`. In order to sign in into flavio's account, one may type: \n
+The code contains already 2 users. It is possible to access their profiles by typing: `http://localhost:4200/user/flavio` and `http://localhost:4200/user/lpereira`. In order to sign in into flavio's account, one may type: 
+
 username: flavio 
+
 password: 123
 
 For the lpereira user, the informations required are:
 
 username: lpereira 
+
 password: 12345678
 
 The application works with the api application as a back-end. Please, read the README.md file in the api_DataFrame repository for more information.
