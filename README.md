@@ -1,10 +1,23 @@
+## General instructions
+
+The code contains already 2 users. It is possible to access their profiles by typing: `http://localhost:4200/user/flavio` and `http://localhost:4200/user/lpereira`. In order to sign in into flavio's account, one may type:
+username: flavio 
+password: 123
+
+For the lpereira user, the informations required are:
+
+username: lpereira 
+password: 12345678
+
+The application works with the api application as a back-end. Please, read the README.md file in the api_DataFrame repository for more information.
+
 # Alurapic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
