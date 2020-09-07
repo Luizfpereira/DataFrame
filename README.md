@@ -1,6 +1,6 @@
 ## General instructions
 
-Please, download the source code of this app, open a terminal inside this repository and type: ng serve --open (Angular CLI is required).
+Please, download the source code of this app, open a terminal inside this repository and type: npm install. Then, type:  ng serve --open (Angular CLI is required).
 
 The code contains already 2 users. It is possible to access their profiles by typing: `http://localhost:4200/user/flavio` and `http://localhost:4200/user/lpereira`. In order to sign in into flavio's account, one may type: 
 
