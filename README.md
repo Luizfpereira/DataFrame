@@ -1,5 +1,10 @@
 ## General instructions
 
+For a brief demonstration, please, click on the image below:
+
+![DATAFRAME](https://img.youtube.com/vi/HgGtiabU2m0/0.jpg) wrapped in a link
+[link text](https://www.youtube.com/watch?v=HgGtiabU2m0 "Angular Example - DreamFrame")
+
 Please, download the source code of this app, open a terminal inside this repository and type: npm install. Then, type:  ng serve --open (Angular CLI is required).
 
 The code contains already 2 users. It is possible to access their profiles by typing: `http://localhost:4200/user/flavio` and `http://localhost:4200/user/lpereira`. In order to sign in into flavio's account, one may type: 
