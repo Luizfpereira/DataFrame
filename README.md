@@ -2,8 +2,7 @@
 
 For a brief demonstration, please, click on the image below:
 
-![DATAFRAME](https://img.youtube.com/vi/HgGtiabU2m0/0.jpg) 
-[link text](https://www.youtube.com/watch?v=HgGtiabU2m0 "Angular Example - DreamFrame")
+[![DREAMFRAME](https://img.youtube.com/vi/HgGtiabU2m0/0.jpg)](https://www.youtube.com/watch?v=HgGtiabU2m0 "Angular Example - DreamFrame")
 
 Please, download the source code of this app, open a terminal inside this repository and type: npm install. Then, type:  ng serve --open (Angular CLI is required).
 
